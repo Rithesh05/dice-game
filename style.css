@@ -1,0 +1,24 @@
+body{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+h1{
+    color: red;
+    font-size: 100px;
+}
+.game{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+h2,h1{
+
+    text-align: center;
+}
+button{
+    margin-top: 15px;
+   
+}
+
